@@ -7,12 +7,13 @@
     font-weight: 100;
 }
 .navbar img{
-    height: 50px;
+    height: 40px;
     margin-right: 5px;
 }
 .jumbotron{
     padding-top: 10rem;
     background-color: #c7f7e9;
+    margin: auto;
 }
 .jumbotron h1{
     margin-top: 10px;
@@ -21,8 +22,13 @@
 }
 #about{
     padding-top: 2rem;
+    margin: 0;
     padding-bottom: 5rem;
 }
 .galeri{
     background-color: #c7f7e9;
+    margin: auto;
+}
+.footer{
+    margin: 0;
 }
